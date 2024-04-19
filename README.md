@@ -1,6 +1,6 @@
 # advice-generator
 
-This template should help get you started developing with Vue 3 in Vite.
+Um gerador de conselhos usando API
 
 ## Recommended IDE Setup
 
